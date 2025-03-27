@@ -23,4 +23,4 @@ Instruktioner för användning
 Öppna valfri MYSQL-klient.
 Kör inlamning2.sql för att skapa och fylla databasen.
 
-![ER-diagram](images/Inlämning2.drawio.png)
+
